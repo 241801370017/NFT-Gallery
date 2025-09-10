@@ -1,0 +1,45 @@
+Project Folder: NFTGallery/
+🔧 Smart Contract: NFTGallery.sol
+The contract includes 3 core functions:
+
+mintNFT() - Create new NFTs with metadata (name, description, image URI, price)
+purchaseNFT() - Buy NFTs with automatic fee distribution and royalty payments
+interactWithNFT() - Like and view NFTs to track community engagement
+
+✨ Key Features:
+
+Complete NFT Marketplace - Full buying/selling functionality
+Social Engagement System - Like and view tracking for community interaction
+Creator Royalty System - Automatic 5% royalty on all secondary sales
+Verified Creator Program - Verification system for authentic artists
+Dynamic Pricing - Set NFTs for sale, update prices, or remove from market
+User Collections - Personal galleries showing owned and created NFTs
+Comprehensive Statistics - Real-time gallery stats and performance metrics
+
+🎯 Advanced Features:
+
+Most Liked NFTs Function - Discover trending NFTs by popularity
+Gallery Statistics - Total NFTs, sales volume, and active listings
+Secure Transfer System - Direct NFT transfers between users
+Fee Management - Transparent 2.5% platform fee with owner controls
+Search and Discovery - Functions to find NFTs for sale and popular items
+
+📋 Complete README.md with all required sections:
+
+✅ Project Title: NFT Gallery
+✅ Detailed Project Description explaining the digital art marketplace
+✅ Clear Project Vision for democratizing digital art creation
+✅ Comprehensive Key Features covering all functionality
+✅ Extensive Future Scope with advanced features and integrations
+
+🚀 Production-Ready Features:
+
+Gas Optimized smart contract with efficient data structures
+Security Modifiers ensuring only authorized operations
+Event Logging for complete transaction transparency
+Error Handling with descriptive require statements
+Scalable Architecture ready for future enhancements
+
+The NFT Gallery is ready for deployment and includes everything needed for a full-featured NFT marketplace! 🎨
+##contract
+"C:\Users\ALEKHYA\Pictures\Screenshots\Screenshot 2025-09-10 142504.png"
